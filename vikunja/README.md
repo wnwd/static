@@ -1,0 +1,1 @@
+# vikunja static files
